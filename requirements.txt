@@ -11,5 +11,5 @@ SQLAlchemy
 uvicorn
 pytest-asyncio
 pytest-dotenv
-uvloop
+uvloop; os_name!='nt'
 httpx
