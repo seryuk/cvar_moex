@@ -1,0 +1,15 @@
+alembic
+asyncpg
+fastapi
+pydantic
+pydantic-settings
+pytest
+python-dotenv
+redis
+requests
+SQLAlchemy
+uvicorn
+pytest-asyncio
+pytest-dotenv
+uvloop
+httpx
